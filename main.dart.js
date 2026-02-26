@@ -78925,7 +78925,7 @@ s.pi(new A.y3(new A.ahs(this),h,!0,0.5625,B.H,i,i,i,i,r.ry.e,!0,!0,i,i,i,!1,i,"C
 O(a){var s=null,r=A.ath(0,new A.xe(A.aEw(s,s,new A.vp("assets/background.png",s,s)),B.zf,s)),q=$.p7,p=(q==null?$.p7=new A.th():q).gRM().a.b
 if(p==null)p="USER"
 q=t.E
-return new A.zk(!0,A.p3(B.dr,A.c([r,A.aEA(!0,A.Gv(A.c([new A.da(B.CB,A.Gv(A.c([A.j4("HELLO, "+p.toUpperCase(),s,s,s,B.OP,s,s),B.M1,B.Ri],q),B.bh,B.fI),s),A.arO(this.a_A())],q),B.bh,B.fI),!0)],q),B.a7,B.cp),this.a_q(),s)},
+return new A.zk(!0,A.p3(B.dr,A.c([r,A.aEA(!0,A.Gv(A.c([new A.da(B.CB,A.Gv(A.c([A.j4("HELLO, "+p.toUpperCase(),s,s,s,B.OP,s,s),B.M1,B.Rh],q),B.bh,B.fI),s),A.arO(this.a_A())],q),B.bh,B.fI),!0)],q),B.a7,B.cp),this.a_q(),s)},
 a_A(){var s,r,q,p=$.d8,o=(p==null?$.d8=$.ij():p).iF("[DEFAULT]")
 A.dQ(o,$.fW(),!0)
 p=A.arS(new A.ek(o)).ll("notes")
@@ -81984,8 +81984,8 @@ B.AH=new A.vJ(null)
 B.AD=new A.ju(B.a0,null,null,B.AH,null)
 B.cV=new A.h7(6)
 B.Ql=new A.j(!0,B.l,null,null,null,null,null,B.cV,null,1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Rh=new A.p8("SAVE NOTE",null,B.Ql,null,null,null,null,null,null)
-B.AE=new A.ju(B.a0,null,null,B.Rh,null)
+B.Ri=new A.p8("\u0421\u041e\u0425\u0420\u0410\u041d\u0418\u0422\u042c \u0417\u0410\u041c\u0415\u0422\u041a\u0423",null,B.Ql,null,null,null,null,null,null)
+B.AE=new A.ju(B.a0,null,null,B.Ri,null)
 B.AF=new A.vH(null,null,null,null,null,null,null,null,null)
 B.AG=new A.vI(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.hX=new A.cZ(0,B.q)
@@ -82417,7 +82417,7 @@ B.Du=new A.jR("\ufffc",null,null,null,!0,!0,B.aj)
 B.Dv=new A.xo(null,null,null,null,null,null,null,null,null,B.my,B.la,!1,null,!1,null,null,null,null,null,null,null,null,!1,null,null,null,null,null,null,null,null,null,null,null,!1,null,null)
 B.Qo=new A.j(!0,B.lL,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.kA=new A.PQ(B.q)
-B.Dw=new A.xn(null,null,null,null,null,null,null,null,null,null,"What's on your mind?",null,B.Qo,null,null,null,!0,!0,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.kA,!0,null,null,null,null)
+B.Dw=new A.xn(null,null,null,null,null,null,null,null,null,null,"\u0427\u0442\u043e \u043d\u0443\u0436\u043d\u043e \u0437\u0430\u043f\u0438\u0441\u0430\u0442\u044c?",null,B.Qo,null,null,null,!0,!0,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.kA,!0,null,null,null,null)
 B.mK=new A.f8(0.5,1,B.aG)
 B.Dy=new A.f8(0.6,1,B.ac)
 B.Dz=new A.f8(0.2075,0.4175,B.ac)
@@ -84262,7 +84262,7 @@ B.Qn=new A.j(!0,B.l,null,".AppleSystemUIFont",null,null,null,null,null,null,null
 B.Nn=new A.j(!0,B.l,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.e,null,null,null,"blackRedwoodCity labelSmall",null,null,null,null)
 B.Rg=new A.dl(B.P1,B.O4,B.P2,B.PC,B.NJ,B.NQ,B.Oo,B.Pp,B.OC,B.Q7,B.Nd,B.Ny,B.Q3,B.Qn,B.Nn)
 B.QJ=new A.j(!0,B.k,null,null,null,null,32,B.j6,null,6,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Ri=new A.p8("MY NOTES",null,B.QJ,null,null,null,null,null,null)
+B.Rh=new A.p8("MY NOTES",null,B.QJ,null,null,null,null,null,null)
 B.Ut=new A.abT(0,"system")
 B.Ij=new A.f(0.056,0.024)
 B.Iy=new A.f(0.108,0.3085)
